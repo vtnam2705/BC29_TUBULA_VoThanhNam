@@ -576,6 +576,9 @@ p {
   text-align: center;
   padding-bottom: 15px;
 }
+.course .content-right .form_wrapper .title_container h2 {
+  font-size: 1.5rem;
+}
 .course .content-right .form_wrapper h3 {
   font-size: 1.1em;
   font-weight: normal;
